@@ -26,6 +26,7 @@ main {
 aside {
     grid-area: aside;
     background: #000000;
+    color: #ffffff;
 }
 
 article {
