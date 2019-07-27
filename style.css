@@ -25,7 +25,7 @@ main {
 
 aside {
     grid-area: aside;
-    background: #5b58e4;
+    background: #000000;
 }
 
 article {
@@ -35,5 +35,5 @@ article {
 
 footer {
     grid-area: footer;
-    background: #c6ffc5;
+    background: #FF6D00;
 }
