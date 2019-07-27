@@ -1,6 +1,6 @@
 header {
     padding: 30px;
-    background: #710404;
+    background: ##FF6D00;
     color: #ffffff;
     text-shadow: 2px 2px #000000;
     background-image: url('https://images.unsplash.com/photo-1500635523027-2f05e513f066?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60');
@@ -36,5 +36,5 @@ article {
 
 footer {
     grid-area: footer;
-    background: #FF6D00;
+    background: #ffffff;
 }
