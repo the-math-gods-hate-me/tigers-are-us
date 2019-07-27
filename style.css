@@ -3,16 +3,16 @@ header {
     background: #710404;
     color: #ffffff;
     text-shadow: 2px 2px #000000;
-    background-image: url('https://images.unsplash.com/photo-1528082992860-d520150d6f6c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80');
+    background-image: url('https://archive.org/services/img/TwoBrothers_479');
     background-size: cover;
     background-attachment: fixed;
     height: 100%;
-    font-family: 'Lobster', cursive;
+    font-family: 'Righteous', cursive;
     
 }
 
 body {
-    font-family: 'Darker Grotesque', sans-serif;
+    font-family: 'Maven Pro', sans-serif;
 }
 
 main {
